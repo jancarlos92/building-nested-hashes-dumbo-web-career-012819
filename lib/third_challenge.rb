@@ -11,7 +11,7 @@ def third_challenge
       :hero_friends => [ friend_1 = {:name => "benvolio", :age => "17", :attitude => "worried"}, friend_2 = {:name => "mercutio", :age => "18", :attitude => "hot-headed"}]
    }, 
    :capulet => {
-      :patriarch => {:name => "Lord Montague",
+      :patriarch => {:name => "Lord Capulet",
       :age => "50" },
       :matriarch => {
         :name => "Lady Capulet" , :age => "51"
